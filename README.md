@@ -1,2 +1,2 @@
-# Pick-a-number
-The classic game of guessing a number
+- Rules are explained in the game.
+- The computer picks a number and you have to guess the number.
